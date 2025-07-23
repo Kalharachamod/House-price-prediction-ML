@@ -62,12 +62,3 @@ python house\_price\_prediction.py
 
 The model achieved strong prediction accuracy, helping to estimate house prices based on key property features.
 
-## Author
-
-Kalhara Chamod  
-Bachelor’s student in Data Science at SLIIT
-```
-
----
-
-If you want, I can also help you write the main Python script (`house_price_prediction.py`) or a `requirements.txt` file!
